@@ -1,5 +1,5 @@
 # E-Commerce Website
-Responsive bir e-ticaret websitesi geliştirildi.
+Responsive bir e-ticaret websitesi projesi geliştirildi.
 
 # Kullanılan Teknolojiler
 - HTML
